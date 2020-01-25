@@ -151,7 +151,9 @@ int main(int argc, char *argv[])
 
         if (k & KEY_A)
         {
-            if (R_FAILED(pctlauthChangePasscode()))
+            pctlExit();
+
+            if (R_FAILED(pctlauthRegisterPasscode()))
             {
                 print_display("Failed to change passcode\n\n");
             }
@@ -159,6 +161,8 @@ int main(int argc, char *argv[])
             {
                 print_display("\n\n\n\nParental control pin succesfully set!\n\n\n\n");
             }
+            
+            pctlInitialize();
         }
 
         if (k & KEY_X)

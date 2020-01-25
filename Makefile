@@ -32,7 +32,7 @@ include $(DEVKITPRO)/libnx/switch_rules
 
 APP_TITLE   :=	Reset Parental Controls
 APP_AUTHOR  :=	TotalJustice
-APP_VERSION :=	1.1.0
+APP_VERSION :=	1.1.1
 
 TARGET		:=	reset_parental_controls
 BUILD		:=	build
