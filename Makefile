@@ -30,7 +30,7 @@ include $(DEVKITPRO)/libnx/switch_rules
 #     - <libnx folder>/default_icon.jpg
 #---------------------------------------------------------------------------------
 
-APP_TITLE   :=	Reset Partental Controls
+APP_TITLE   :=	Reset Parental Controls
 APP_AUTHOR  :=	TotalJustice
 APP_VERSION :=	1.1.0
 
