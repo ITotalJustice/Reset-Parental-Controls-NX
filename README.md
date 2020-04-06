@@ -6,27 +6,21 @@ An easy way to change the pin for parental controls for the Nintendo Switch! (cf
 
 ----
 
-## What does it do
+## Features
+- Set/Change the pin.
+- Delete parental controls pin
+- Unlink the parental control mobile app from your account.
+
+
+## What you can do
 
 Pressing (A) will launch the applet for changing the pin for parental controls.
-
-This can be used as a way to remove parental controls for those that have forgotten their pin.
-
-If you *don't* have parental controls enabled, then pressing (A) will enable them once you enter a pin.
-
-----
-
-## How to remove parental controls
-
-1. Go to system settings.
-
-2. Parental Controls.
-
-3. Change Settings (it will ask for the pin that you set using my app).
-
-4. Once the pin is entered, press (X) to remove parental controls!
+Pressing (X) will delete the pin for parental controls.
+Pressing (Y) will remove the app pairing for parental controls.
+Pressing (B) will exit Reset-Parental-Controls-NX.
 
 ----
+
 
 ## Support my work
 
