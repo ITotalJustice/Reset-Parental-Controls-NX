@@ -1,4 +1,12 @@
-# reset-parental-controls
+# THIS PROJECT IS ARCHIVED.
+
+I am no longer updating any of my switch homebrew apps. This also means that there will be no more public releases made by me.
+
+Thank you to everyone that was kind to me along the way.
+
+----
+
+## reset-parental-controls
 
 An easy way to change the pin for parental controls for the Nintendo Switch! (cfw required)
 
